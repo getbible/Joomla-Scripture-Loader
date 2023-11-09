@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="plugin" version="4" group="system" method="upgrade">
+	<name>PLG_SYSTEM_GETBIBLELOADER</name>
+	<creationDate>9th November, 2023</creationDate>
+	<author>Llewellyn van der Merwe</author>
+	<authorEmail>joomla@vdm.io</authorEmail>
+	<authorUrl>https://getbible.net</authorUrl>
+	<copyright>Copyright (C) 2015. All Rights Reserved</copyright>
+	<license>GNU/GPL Version 2 or later - http://www.gnu.org/licenses/gpl-2.0.html</license>
+	<version>2.0.0</version>
+	<description>PLG_SYSTEM_GETBIBLELOADER_XML_DESCRIPTION</description>
+
+	<!-- Scripts to run on installation -->
+	<scriptfile>script.php</scriptfile>
+
+	<!-- Language files -->
+	<languages folder="language">
+		<language tag="en-GB">en-GB/en-GB.plg_system_getbibleloader.ini</language>
+		<language tag="en-GB">en-GB/en-GB.plg_system_getbibleloader.sys.ini</language>
+	</languages>
+
+	<!-- Plugin files -->
+	<files>
+		<filename plugin="getbibleloader">getbibleloader.php</filename>
+		<filename>index.html</filename>
+		<folder>language</folder>
+	</files>
+</extension>
