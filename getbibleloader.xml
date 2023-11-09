@@ -22,6 +22,7 @@
 	<!-- Plugin files -->
 	<files>
 		<filename plugin="getbibleloader">getbibleloader.php</filename>
+		<filename>README.md</filename>
 		<filename>index.html</filename>
 		<folder>language</folder>
 	</files>
