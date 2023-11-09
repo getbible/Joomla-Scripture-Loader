@@ -9,6 +9,7 @@ Ading the [getBible Loader Script](https://git.vdm.dev/getBible/loader) the the 
 - Download the plugin [here](https://git.vdm.dev/getBible/loader-plugin/archive/master.zip).
 - Install the plugin on your Joomla 3/4/5 website.
 - Add a class `getBible` to any element (in your content) that contains a Scripture references like this:
+
    ```html
    <ul>
      <li class="getBible">John 3:16</li>
@@ -17,7 +18,7 @@ Ading the [getBible Loader Script](https://git.vdm.dev/getBible/loader) the the 
    </ul>
    ```
 - Follow these [reference naming](https://git.vdm.dev/getBible/loader#scripture-reference-formatting) conventions.
-- There is also (customization option](https://git.vdm.dev/getBible/loader#utilizing-data-attributes) available.
+- There is also [customization option](https://git.vdm.dev/getBible/loader#utilizing-data-attributes) available.
 - For more details got to the [Biblekit documentation](https://getbible.net/biblekit) page.
 
 > Support can be found at our [community support area](https://git.vdm.dev/getBible/support).
