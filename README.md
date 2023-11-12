@@ -1,4 +1,4 @@
-# getBible Loader (2.0.1)
+# getBible Loader (2.0.2)
 
 ### The Joomla plugin from [getBible.net](https://getbible.net/joomla) to load of the Scriptures in your website content.
 
@@ -30,7 +30,7 @@ Ading the [getBible Loader Script](https://git.vdm.dev/getBible/loader) the the 
 + *Name*: [getBible Loader](https://getbible.net)
 + *First Build*: 3rd December, 2015
 + *Last Build*: 12th November, 2023
-+ *Version*: 2.0.1
++ *Version*: 2.0.2
 + *Copyright*: Copyright (C) 2015. All Rights Reserved
 + *License*: GNU/GPL Version 2 or later - http://www.gnu.org/licenses/gpl-2.0.html
 
