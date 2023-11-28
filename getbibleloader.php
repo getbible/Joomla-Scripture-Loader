@@ -25,7 +25,7 @@ use Joomla\CMS\Html\HTMLHelper;
  * System - GetBibleLoader plugin.
  *
  * @package   GetBibleLoader
- * @since     3.0.0
+ * @since     3.0.1
  */
 class PlgSystemGetBibleLoader extends CMSPlugin
 {
@@ -50,7 +50,7 @@ class PlgSystemGetBibleLoader extends CMSPlugin
 	{
 		// Check if we are in the site application
 		if ($this->app->isClient('site')) {
-			HTMLHelper::_('script', 'https://cdn.jsdelivr.net/gh/getbible/loader@3.0.0/dist/js/getBible.min.js', ['version' => 'auto']);
+			HTMLHelper::_('script', 'https://cdn.jsdelivr.net/gh/getbible/loader@3.0.1/dist/js/getBible.min.js', ['version' => 'auto']);
 		}
 	}
 }
