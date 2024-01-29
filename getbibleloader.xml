@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<extension type="plugin" version="3.10" group="system" method="upgrade">
+<extension type="plugin" version="4.0" group="system" method="upgrade">
 	<name>PLG_SYSTEM_GETBIBLELOADER</name>
 	<creationDate>29th January, 2024</creationDate>
 	<author>Llewellyn van der Merwe</author>
